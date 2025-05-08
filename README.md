@@ -2,7 +2,7 @@ LuGo Digital Solutions
 LuGo Digital Solutions je moja osobná web vizitka a portfólio.
 Nájdeš tu informácie o mojich službách, kontaktoch a prepojenie na môj GitHub.
 
-<i class="bi bi-laptop"></i>Moderný responzívny dizajn
+Moderný responzívny dizajn
 Dvojjazyčná podpora (slovenčina/angličtina)
 Ukážka mojich zručností v HTML, CSS a JavaScript
 ---
