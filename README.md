@@ -1,6 +1,6 @@
 👜 LuGo Digital Solutions
 
-LuGo Digital Solutions je moja osobná web vizitka a portfólio.
+LuGo Digital Solutions je moja osobná web vizitka a portfólio. 
 Nájdeš tu informácie o mojich službách, kontaktoch a prepojenie na môj GitHub.
 
 - 💻 Moderný responzívny dizajn
@@ -19,8 +19,7 @@ Nájdeš tu informácie o mojich službách, kontaktoch a prepojenie na môj Git
 
 📧 Kontakt
 
-Ak máš záujem o spoluprácu alebo otázky, kontaktuj ma cez GitHub alebo priamo na stránke
+Ak máš záujem o spoluprácu,kontaktuj ma cez GitHub, alebo telefonicky.
 ---
-
 Projekt je vo vývoji. Ďakujem za návštevu!
----
+
