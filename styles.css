@@ -278,11 +278,11 @@ body {
 /* Responsive Design */
 @media (max-width: 991.98px) {
     .header {
-        text-align: center;
+    text-align: center;
         padding: 3rem 0;
-    }
-    
-    .logo {
+}
+
+.logo {
         max-width: 180px;
         margin-bottom: 1rem;
     }
@@ -368,7 +368,7 @@ body {
     .btn-accent, .btn-outline-accent {
         width: 100%;
         padding: 0.8rem 1.5rem;
-    }
+}
 
     .contact-info {
         gap: 1rem;
@@ -468,9 +468,9 @@ body {
     }
 
     .display-4 {
-        font-size: 1.6rem;
-        margin-bottom: 0.5rem;
-    }
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+}
 
     .lead {
         margin-bottom: 1rem;
@@ -545,8 +545,8 @@ body {
 /* Fix for language switcher on different screens */
 @media (max-width: 767.98px) {
     .language-switcher {
-        margin-bottom: 1rem;
-    }
+    margin-bottom: 1rem;
+}
 
     .language-switcher .btn {
         padding: 0.3rem 0.8rem;
@@ -561,8 +561,8 @@ body {
     }
 
     #serviceContent p {
-        font-size: 0.95rem;
-    }
+    font-size: 0.95rem;
+}
 
     #serviceContent li {
         font-size: 0.9rem;
